@@ -1,2 +1,2 @@
 # Monte-Carlo-Methods
-Monte Carlo Methods applied in Python and R.
+Monte Carlo Methods (Stats 102C) coursework in Python and R.
